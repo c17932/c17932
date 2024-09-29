@@ -1,4 +1,7 @@
-## Hi there 👋
+# cinder
+Hi, I'm an old-school web dev otherwise known as `cinder`.
+
+My profile is currently under construction, but will be a monorepo of all my work. Check back soon!
 
 <!--
 **c17932/c17932** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
