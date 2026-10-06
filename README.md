@@ -22,7 +22,7 @@ I'm currently building **Studio**, a collection of software and experiments deve
 
 My recent work has focused on decentralized networking and transport, including **DTN (Delay/Disruption-Tolerant Networking)**, peer-to-peer communication, encrypted transport, and local-first infrastructure.
 
-You can find all of my work in my [repositories](https://github.com/c17932).
+You can find all of my work in my repositories here on GitHub.
 
 ## Donate
 
