@@ -1,12 +1,10 @@
 <p align="center">
   <img
-    src="assets/banner.jpg"
+    src="assets/banner.png"
     alt="cinder"
     width="100%"
   />
 </p>
-
-# cinder
 
 I'm a TypeScript developer interested in building decentralized systems.
 
