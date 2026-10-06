@@ -8,30 +8,28 @@
 
 # cinder
 
-I build software, mostly in TypeScript.
+I'm a TypeScript developer interested in building decentralized systems.
 
-I'm interested in building systems that are **simple, explicit, composable, and understandable**. I tend to approach programming as a process of turning ideas into structure: define the things, define how they relate, and make the resulting system understandable enough to document.
+I like understanding how things work from the ground up, and I tend toward software that is simple, local-first, and independent of centralized infrastructure.
 
-I use **common sense** for everything I build. The process is simple: **have an idea, figure out a way to do it, and do it**. The result informs what I do next, so the process naturally continues through experimentation, revision, and iteration.
+I build recursively: start with something I want to do, determine what it takes to do it, and continue one step at a time until it's done.
 
-See [COMMON_SENSE.md](COMMON_SENSE.md) for the full explanation.
+See [PROCESS.md](PROCESS.md) for the process behind my work.
 
 ## Work
 
-My projects are here in my repositories. If you're interested in what I'm building, **look through the repos**—that's where the work is.
+I'm currently building **Studio**, a collection of software and experiments developed from the ground up.
 
-I'm currently focused on building out my own development environment, tooling, and distributed systems work under **Studio**.
+My recent work has focused on decentralized networking and transport, including **DTN (Delay/Disruption-Tolerant Networking)**, peer-to-peer communication, encrypted transport, and local-first infrastructure.
 
-## Support
+You can find all of my work in my [repositories](https://github.com/cinderblock).
 
-If you find my work useful and would like to support it:
+## Donate
 
-**[Donate](https://www.paypal.com/donate/?hosted_button_id=QFSNPUR4AWJ9Q)**
+If you'd like to support my work:
+
+[Donate with PayPal](https://www.paypal.com/donate/?hosted_button_id=QFSNPUR4AWJ9Q)
 
 ## Contact
 
-**E-mail:** [cinder.brent@proton.me](mailto:cinder.brent@proton.me)
-
-**GitHub:** You're already here (and if you're not, my GitHub username is `c17932`).
-
-For anything else, reach out through the contact information associated with my profile.
+[cinder.brent@proton.me](mailto:cinder.brent@proton.me)
